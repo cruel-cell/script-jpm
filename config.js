@@ -1,5 +1,5 @@
 // config.js
-const numberAllowed = ['6285246154386','62xxxxxxxxx']; // Nomor yang diizinkan untuk chat ke bot, tambahkan kalau diperlukan
+const numberAllowed = ['6285603713674','62xxxxxxxxx']; // Nomor yang diizinkan untuk chat ke bot, tambahkan kalau diperlukan
 
 global.prefix = ['.', '#']; // Daftar prefix
 
